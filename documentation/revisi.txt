@@ -1,0 +1,11 @@
+Revisi
+
+- Value Database Maksimalkan
+- Tambahkan Approval
+- Stok Barang Habis
+- Stok Barang Berkurang
+- Stok Barang Bertambah
+- Filter Barang
+- Report Transaksi
+- Kode Peminjaman
+- Bahasa Indonesia
